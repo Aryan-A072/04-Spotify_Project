@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+button{
+    cursor: pointer;
+    transition: 0.2s;
+}
+button:hover{
+    color: white;
+    transform: scale(1.1);
+}
+button:active{
+    /* color: white; */
+    transform: scale(1.1);
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+p{
+    cursor: pointer;
+}
+
+h2{
+    font-weight: bold;
+    color: white;
+}
+.footer p{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: smaller;
+    font-weight: 500;
+    
+}
+.footer p:hover{
+    text-decoration: underline;
+}
