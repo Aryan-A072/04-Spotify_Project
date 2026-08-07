@@ -40,3 +40,7 @@ A graph database is ideal because music platforms are highly relationship-driven
 
 ## User Interface Screenshots
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/f744d179-d4ed-4132-9d56-63e7434a37fe" />
+
+
+## Live UI Link (frontend only for now):
+https://spotify-project-aa.vercel.app/
